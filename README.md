@@ -1,4 +1,4 @@
-# QRCode ePaper for LOLIN D32 Pro
+# QRCode ePaper for D1 mini
 
 <br>
 
