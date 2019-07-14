@@ -1,4 +1,4 @@
-# QRCode ePaper for D1 mini
+# QRCode ePaper for D1 mini (ESP8266)
 
 ## § 材料準備
 
@@ -15,7 +15,7 @@
 
 ## § 組裝
 
-將 TFT I2C Connector Shield 插到 LOLIN D1 mini 上：
+將 TFT I2C Connector Shield 插到 D1 mini 上：
 
 ![D1 mini and TFT I2C Connector Shield](imgs/img2.jpg)
 
